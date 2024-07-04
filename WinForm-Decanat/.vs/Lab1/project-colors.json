@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35d55685-23ed-4666-b820-0d7014fe8825": {
+      "ProjectGuid": "35d55685-23ed-4666-b820-0d7014fe8825",
+      "DisplayName": "Model",
+      "ColorIndex": 0
+    },
+    "0c82f753-014e-4b3c-877a-b0b21f46464c": {
+      "ProjectGuid": "0c82f753-014e-4b3c-877a-b0b21f46464c",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 1
+    },
+    "7e81843a-e536-48d1-888a-05db8dd7315a": {
+      "ProjectGuid": "7e81843a-e536-48d1-888a-05db8dd7315a",
+      "DisplayName": "Console",
+      "ColorIndex": 2
+    },
+    "10bcb2da-712f-4dd1-bc2d-251fadeb7756": {
+      "ProjectGuid": "10bcb2da-712f-4dd1-bc2d-251fadeb7756",
+      "DisplayName": "WinFormView",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

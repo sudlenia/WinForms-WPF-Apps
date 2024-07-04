@@ -1,0 +1,12 @@
+C:\Users\sudlenia\Desktop\Lab1\Lab1\bin\Debug\Lab1.dll
+C:\Users\sudlenia\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\sudlenia\Desktop\Lab1\Lab1\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\Lab1\Lab1\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\Lab1\Lab1\obj\Debug\Lab1.dll
+C:\Users\sudlenia\Desktop\Lab1\Lab1\obj\Debug\Lab1.pdb
+F:\C#\3 semester\Lab1\Lab1\bin\Debug\Lab1.dll
+F:\C#\3 semester\Lab1\Lab1\bin\Debug\Lab1.pdb
+F:\C#\3 semester\Lab1\Lab1\obj\Debug\Model.csproj.AssemblyReference.cache
+F:\C#\3 semester\Lab1\Lab1\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\C#\3 semester\Lab1\Lab1\obj\Debug\Lab1.dll
+F:\C#\3 semester\Lab1\Lab1\obj\Debug\Lab1.pdb

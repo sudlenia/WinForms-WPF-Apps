@@ -1,0 +1,168 @@
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\WinView.exe.config
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\WinView.exe
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\WinView.pdb
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\EventLab.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\SharedView.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\ZedGraph.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\EventLab.pdb
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\SharedView.pdb
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\ZedGraph.xml
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.csproj.AssemblyReference.cache
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.Form1.resources
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.Form2.resources
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.Properties.Resources.resources
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.csproj.GenerateResource.cache
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.csproj.CopyComplete
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.exe
+C:\Users\ilya-\source\repos\EventLab\WinView\obj\Debug\WinView.pdb
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\Presenter.dll
+C:\Users\ilya-\source\repos\EventLab\WinView\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\WinView.exe.config
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\WinView.exe
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\WinView.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\EventLab.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\ZedGraph.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\EventLab.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\ZedGraph.xml
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.Form1.resources
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.Form2.resources
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.Properties.Resources.resources
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.csproj.GenerateResource.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.exe
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\WinView\obj\Debug\WinView.pdb
+F:\C#\3 semester\Lab4\WinView\bin\Debug\WinView.exe.config
+F:\C#\3 semester\Lab4\WinView\bin\Debug\WinView.exe
+F:\C#\3 semester\Lab4\WinView\bin\Debug\WinView.pdb
+F:\C#\3 semester\Lab4\WinView\bin\Debug\EventLab.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\Presenter.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\SharedView.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\ZedGraph.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\EventLab.pdb
+F:\C#\3 semester\Lab4\WinView\bin\Debug\Presenter.pdb
+F:\C#\3 semester\Lab4\WinView\bin\Debug\SharedView.pdb
+F:\C#\3 semester\Lab4\WinView\bin\Debug\ZedGraph.xml
+F:\C#\3 semester\Lab4\WinView\bin\Debug\de\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\es\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\fr\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\hu\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\it\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\ja\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\pt\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\ru\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\sk\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\sv\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\tr\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.AssemblyReference.cache
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.SuggestedBindingRedirects.cache
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Form1.resources
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Form2.resources
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Properties.Resources.resources
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.GenerateResource.cache
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.CoreCompileInputs.cache
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.CopyComplete
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.exe
+F:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.pdb
+D:\C#\3 semester\Lab4\WinView\bin\Debug\WinView.exe.config
+D:\C#\3 semester\Lab4\WinView\bin\Debug\WinView.exe
+D:\C#\3 semester\Lab4\WinView\bin\Debug\WinView.pdb
+D:\C#\3 semester\Lab4\WinView\bin\Debug\EventLab.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\Presenter.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\SharedView.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\ZedGraph.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\EventLab.pdb
+D:\C#\3 semester\Lab4\WinView\bin\Debug\Presenter.pdb
+D:\C#\3 semester\Lab4\WinView\bin\Debug\SharedView.pdb
+D:\C#\3 semester\Lab4\WinView\bin\Debug\ZedGraph.xml
+D:\C#\3 semester\Lab4\WinView\bin\Debug\de\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\es\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\fr\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\hu\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\it\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\ja\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\pt\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\ru\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\sk\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\sv\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\tr\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.AssemblyReference.cache
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.SuggestedBindingRedirects.cache
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Form1.resources
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Form2.resources
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Properties.Resources.resources
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.GenerateResource.cache
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.CoreCompileInputs.cache
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.CopyComplete
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.exe
+D:\C#\3 semester\Lab4\WinView\obj\Debug\WinView.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\WinView.exe.config
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\WinView.exe
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\WinView.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\EventLab.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\Presenter.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\SharedView.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\ZedGraph.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\EventLab.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\Presenter.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\SharedView.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\ZedGraph.xml
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\de\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\es\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\fr\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\hu\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\it\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\ja\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\pt\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\ru\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\sk\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\sv\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\tr\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.AssemblyReference.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Form1.resources
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Form2.resources
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.Properties.Resources.resources
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.GenerateResource.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.CoreCompileInputs.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.csproj.Up2Date
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.exe
+E:\Repositories\university-works\C#\3 semester\Lab4\WinView\obj\Debug\WinView.pdb

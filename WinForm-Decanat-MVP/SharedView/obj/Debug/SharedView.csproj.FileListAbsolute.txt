@@ -1,0 +1,120 @@
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\SharedView.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\SharedView.pdb
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\EventLab.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\ZedGraph.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\EventLab.pdb
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\ZedGraph.xml
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\obj\Debug\SharedView.csproj.AssemblyReference.cache
+C:\Users\ilya-\source\repos\EventLab\SharedView\obj\Debug\SharedView.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\source\repos\EventLab\SharedView\obj\Debug\SharedView.csproj.CopyComplete
+C:\Users\ilya-\source\repos\EventLab\SharedView\obj\Debug\SharedView.dll
+C:\Users\ilya-\source\repos\EventLab\SharedView\obj\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\EventLab.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\ZedGraph.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\EventLab.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\ZedGraph.xml
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\obj\Debug\SharedView.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\obj\Debug\SharedView.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\obj\Debug\SharedView.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\obj\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\SharedView\obj\Debug\SharedView.pdb
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\SharedView.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\SharedView.pdb
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\EventLab.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\ZedGraph.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\EventLab.pdb
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\ZedGraph.xml
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\de\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\es\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\fr\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\hu\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\it\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\ja\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\pt\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\ru\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\sk\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\sv\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\tr\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.AssemblyReference.cache
+F:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.CoreCompileInputs.cache
+F:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.CopyComplete
+F:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.dll
+F:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.pdb
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\SharedView.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\SharedView.pdb
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\EventLab.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\ZedGraph.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\EventLab.pdb
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\ZedGraph.xml
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\de\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\es\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\fr\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\hu\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\it\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\ja\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\pt\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\ru\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\sk\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\sv\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\tr\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.AssemblyReference.cache
+D:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.CoreCompileInputs.cache
+D:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.CopyComplete
+D:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.dll
+D:\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\SharedView.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\SharedView.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\EventLab.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\ZedGraph.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\EventLab.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\ZedGraph.xml
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\de\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\es\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\fr\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\hu\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\it\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\ja\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\pt\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\ru\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\sk\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\sv\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\tr\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.AssemblyReference.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.CoreCompileInputs.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.csproj.Up2Date
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\SharedView\obj\Debug\SharedView.pdb

@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69CD64-41E5-4D9A-9388-3642FB57798C}|WinView\\WinView.csproj|e:\\repositories\\university-works\\c#\\3 semester\\lab4\\winview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA69CD64-41E5-4D9A-9388-3642FB57798C}|WinView\\WinView.csproj|solutionrelative:winview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD324D2-AF12-4604-9464-92C5447AE89B}|EventLab\\Model.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\eventlab\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD324D2-AF12-4604-9464-92C5447AE89B}|EventLab\\Model.csproj|solutionrelative:eventlab\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15438B-6444-4325-B374-85B98B683F88}|Presenter\\Presenter.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\presenter\\presenterstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC15438B-6444-4325-B374-85B98B683F88}|Presenter\\Presenter.csproj|solutionrelative:presenter\\presenterstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD324D2-AF12-4604-9464-92C5447AE89B}|EventLab\\Model.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\eventlab\\studentargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD324D2-AF12-4604-9464-92C5447AE89B}|EventLab\\Model.csproj|solutionrelative:eventlab\\studentargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD324D2-AF12-4604-9464-92C5447AE89B}|EventLab\\Model.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\eventlab\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD324D2-AF12-4604-9464-92C5447AE89B}|EventLab\\Model.csproj|solutionrelative:eventlab\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A121116-4F61-4E19-B37A-50168114E672}|SharedView\\SharedView.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\sharedview\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A121116-4F61-4E19-B37A-50168114E672}|SharedView\\SharedView.csproj|solutionrelative:sharedview\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69CD64-41E5-4D9A-9388-3642FB57798C}|WinView\\WinView.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\winview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA69CD64-41E5-4D9A-9388-3642FB57798C}|WinView\\WinView.csproj|solutionrelative:winview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA69CD64-41E5-4D9A-9388-3642FB57798C}|WinView\\WinView.csproj|E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\winview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA69CD64-41E5-4D9A-9388-3642FB57798C}|WinView\\WinView.csproj|solutionrelative:winview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentArgs.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\EventLab\\StudentArgs.cs",
+              "RelativeDocumentMoniker": "EventLab\\StudentArgs.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\EventLab\\StudentArgs.cs",
+              "RelativeToolTip": "EventLab\\StudentArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\EventLab\\StudentModel.cs",
+              "RelativeDocumentMoniker": "EventLab\\StudentModel.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\EventLab\\StudentModel.cs",
+              "RelativeToolTip": "EventLab\\StudentModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PresenterStudent.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\Presenter\\PresenterStudent.cs",
+              "RelativeDocumentMoniker": "Presenter\\PresenterStudent.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\Presenter\\PresenterStudent.cs",
+              "RelativeToolTip": "Presenter\\PresenterStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IView.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\SharedView\\IView.cs",
+              "RelativeDocumentMoniker": "SharedView\\IView.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\SharedView\\IView.cs",
+              "RelativeToolTip": "SharedView\\IView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\EventLab\\IModel.cs",
+              "RelativeDocumentMoniker": "EventLab\\IModel.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\EventLab\\IModel.cs",
+              "RelativeToolTip": "EventLab\\IModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\WinView\\Form1.cs",
+              "RelativeDocumentMoniker": "WinView\\Form1.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\WinView\\Form1.cs",
+              "RelativeToolTip": "WinView\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAzwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\WinView\\Program.cs",
+              "RelativeDocumentMoniker": "WinView\\Program.cs",
+              "ToolTip": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\WinView\\Program.cs",
+              "RelativeToolTip": "WinView\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:06:20.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\Repositories\\university-works\\C#\\3 semester\\Lab4\\WinView\\Form1.cs",
+              "RelativeDocumentMoniker": "WinView\\Form1.cs",
+              "ToolTip": "D:\\C#\\3 semester\\Lab4\\WinView\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-04T05:06:20.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

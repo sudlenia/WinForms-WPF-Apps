@@ -1,0 +1,7 @@
+C:\Users\sudlenia\Desktop\Lab1\Console\bin\Debug\Console.exe.config
+C:\Users\sudlenia\Desktop\Lab1\Console\bin\Debug\Console.exe
+C:\Users\sudlenia\Desktop\Lab1\Console\bin\Debug\Console.pdb
+C:\Users\sudlenia\Desktop\Lab1\Console\obj\Debug\Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\sudlenia\Desktop\Lab1\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\Lab1\Console\obj\Debug\Console.exe
+C:\Users\sudlenia\Desktop\Lab1\Console\obj\Debug\Console.pdb

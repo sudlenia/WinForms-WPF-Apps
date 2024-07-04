@@ -1,0 +1,55 @@
+C:\Users\ilya-\source\repos\EventLab\Presenter\bin\Debug\Presenter.dll
+C:\Users\ilya-\source\repos\EventLab\Presenter\bin\Debug\Presenter.pdb
+C:\Users\ilya-\source\repos\EventLab\Presenter\bin\Debug\EventLab.dll
+C:\Users\ilya-\source\repos\EventLab\Presenter\bin\Debug\SharedView.dll
+C:\Users\ilya-\source\repos\EventLab\Presenter\bin\Debug\EventLab.pdb
+C:\Users\ilya-\source\repos\EventLab\Presenter\bin\Debug\SharedView.pdb
+C:\Users\ilya-\source\repos\EventLab\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\source\repos\EventLab\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+C:\Users\ilya-\source\repos\EventLab\Presenter\obj\Debug\Presenter.dll
+C:\Users\ilya-\source\repos\EventLab\Presenter\obj\Debug\Presenter.pdb
+C:\Users\ilya-\source\repos\EventLab\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\bin\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\bin\Debug\Presenter.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\bin\Debug\EventLab.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\bin\Debug\SharedView.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\bin\Debug\EventLab.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\bin\Debug\SharedView.pdb
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\obj\Debug\Presenter.dll
+C:\Users\sudlenia\Desktop\EventLab (2)\EventLab\Presenter\obj\Debug\Presenter.pdb
+F:\C#\3 semester\Lab4\Presenter\bin\Debug\Presenter.dll
+F:\C#\3 semester\Lab4\Presenter\bin\Debug\Presenter.pdb
+F:\C#\3 semester\Lab4\Presenter\bin\Debug\EventLab.dll
+F:\C#\3 semester\Lab4\Presenter\bin\Debug\SharedView.dll
+F:\C#\3 semester\Lab4\Presenter\bin\Debug\EventLab.pdb
+F:\C#\3 semester\Lab4\Presenter\bin\Debug\SharedView.pdb
+F:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+F:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+F:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+F:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.dll
+F:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.pdb
+D:\C#\3 semester\Lab4\Presenter\bin\Debug\Presenter.dll
+D:\C#\3 semester\Lab4\Presenter\bin\Debug\Presenter.pdb
+D:\C#\3 semester\Lab4\Presenter\bin\Debug\EventLab.dll
+D:\C#\3 semester\Lab4\Presenter\bin\Debug\SharedView.dll
+D:\C#\3 semester\Lab4\Presenter\bin\Debug\EventLab.pdb
+D:\C#\3 semester\Lab4\Presenter\bin\Debug\SharedView.pdb
+D:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+D:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+D:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+D:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.dll
+D:\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\bin\Debug\Presenter.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\bin\Debug\Presenter.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\bin\Debug\EventLab.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\bin\Debug\SharedView.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\bin\Debug\EventLab.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\bin\Debug\SharedView.pdb
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.csproj.Up2Date
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.dll
+E:\Repositories\university-works\C#\3 semester\Lab4\Presenter\obj\Debug\Presenter.pdb

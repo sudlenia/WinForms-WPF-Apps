@@ -1,0 +1,1 @@
+[Задание](Arkhitektura_Prakticheskaya_rabota_4.pdf)
